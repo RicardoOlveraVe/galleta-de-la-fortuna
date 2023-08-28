@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,600;0,700;1,400&display=swap');
+
+/*----- RESET -----*/
+
+html {
+    font-family: 'EB Garamond', serif;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+h1,
+p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+button{
+    border: none;
+    font-family: inherit;
+}
+
