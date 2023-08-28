@@ -3,7 +3,7 @@ import getRandomElemArray from "../utils/getRandomElemArray"
 const BtnQuote = ({ setQuote, phrase, setNumberBg  }) => {
 
     const handleRandomPhrase = () => {
-      let randomBg = []
+      const randomBg = []
       if (phrase === phrase) {
         setQuote(getRandomElemArray(phrase)) 
       }
