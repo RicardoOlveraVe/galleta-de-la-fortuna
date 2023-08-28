@@ -19,7 +19,7 @@
    max-width: 20em;
    height: 100%;
    max-height: 8em;
-   background-image: url('./rectangle1.svg');
+   background-image: url('/rectangle1.svg');
    background-position: center;
    background-size: contain;
    padding: 2em 3em;
